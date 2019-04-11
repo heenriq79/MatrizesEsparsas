@@ -1,0 +1,33 @@
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\bin\Debug\apMatriz.exe.config
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\bin\Debug\apMatriz.exe
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\bin\Debug\apMatriz.pdb
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.csprojResolveAssemblyReference.cache
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.frmMatriz.resources
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.Properties.Resources.resources
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.csproj.GenerateResource.Cache
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.csproj.CoreCompileInputs.cache
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.exe
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.pdb
+C:\Users\u18205\Desktop\Projeto Chico - MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.frmOperacoes.resources
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\bin\Debug\apMatriz.exe.config
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\bin\Debug\apMatriz.exe
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\bin\Debug\apMatriz.pdb
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.csprojResolveAssemblyReference.cache
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.frmMatriz.resources
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.frmOperacoes.resources
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.Properties.Resources.resources
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.csproj.GenerateResource.Cache
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.csproj.CoreCompileInputs.cache
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.exe
+C:\Users\u18205\Desktop\ProjetoChico-MATRIZ\apMatriz\apMatriz\obj\Debug\apMatriz.pdb
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\bin\Debug\apMatriz.exe.config
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\bin\Debug\apMatriz.exe
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\bin\Debug\apMatriz.pdb
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.csprojResolveAssemblyReference.cache
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.frmMatriz.resources
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.frmOperacoes.resources
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.Properties.Resources.resources
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.csproj.GenerateResource.Cache
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.csproj.CoreCompileInputs.cache
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.exe
+C:\Users\u18205\Desktop\18205_18182_Projeto1ED\apMatriz\apMatriz\obj\Debug\apMatriz.pdb
